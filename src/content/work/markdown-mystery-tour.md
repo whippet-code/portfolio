@@ -1,23 +1,23 @@
 ---
-title: Markdown Mystery Tour
-publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+title: PhotoMooch App
+publishDate: 2023-08-10 00:00:00
+img: /assets/stock-1.png
+img_alt: Screenshot of the PhotoMooch app landing page
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Built as a creative prompt provider, PhotoMooch is a mobile app that helps photographers find inspiration and connect with the mental well-being benefits of creativity. The app was designed and developed to run alongside the PhotoMooch collective, a group of four photographers who provide workshops and events to help people find their creative voice & discover the well-being benefits of photography. Built upon the React framework, the app is designed to be a simple, easy to use tool. With a MongoDB backend and a custom built api built with node.js, the app is designed to be scalable and easy to maintain.
 tags:
   - Design
   - Dev
-  - User Testing
+  - Proof of Concept
+  - React
+  - Full Stack
 ---
 
 ## Level-two heading
 
 > Tell me and I forget. Teach me and I remember. Involve me and I learn.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
-
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+The app can be found live at [https://photomooch.onrender.com](PhotoMooch App)
 
 ### Level-three heading
 
