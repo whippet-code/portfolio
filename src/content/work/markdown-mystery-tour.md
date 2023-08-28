@@ -4,7 +4,7 @@ publishDate: 2023-08-10 00:00:00
 img: /assets/stock-1.png
 img_alt: Screenshot of the PhotoMooch app landing page
 description: |
-  Built as a creative prompt provider, PhotoMooch is a mobile app that helps photographers find inspiration and connect with the mental well-being benefits of creativity. The app was designed and developed to run alongside the PhotoMooch collective, a group of four photographers who provide workshops and events to help people find their creative voice & discover the well-being benefits of photography. Built upon the React framework, the app is designed to be a simple, easy to use tool. With a MongoDB backend and a custom built api built with node.js, the app is designed to be scalable and easy to maintain.
+  Creative prompt provider, PhotoMooch is a mobile app that helps photographers find inspiration and connect with the mental well-being benefits of creativity.
 tags:
   - Design
   - Dev
@@ -13,23 +13,20 @@ tags:
   - Full Stack
 ---
 
-## Level-two heading
-
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
-
 The app can be found live at [https://photomooch.onrender.com](PhotoMooch App)
 
-### Level-three heading
+### App Description
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+Built as a creative prompt provider, PhotoMooch is a mobile app that helps photographers find inspiration and connect with the mental well-being benefits of creativity. The app was designed and developed to run alongside the PhotoMooch collective, a group of four photographers who provide workshops and events to help people find their creative voice & discover the well-being benefits of photography. Built upon the React framework, the app is designed to be a simple, easy to use tool. With a MongoDB backend and a custom built api built with node.js, the app is designed to be scalable and easy to maintain.
+Admin verification is required to access the admin side of the app, and once logged in, admin can edit, add and delete prompts from the database. The app is designed to be used by anyone, and is currently used by the PhotoMooch collective to provide creative prompts to their followers.
+Users may use the app unregistered, but will not be able to access the save and mark as complete features.
+Registered users can save prompts to their profile, and mark them as complete once they have completed the prompt. This allows users to keep track of their progress and revisit prompts they have completed in the past.
 
-### Level-three heading
+### App Screenshots
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+![Screenshot of the PhotoMooch app admin promnpt edit form](/assets/PM_Edit.png)
+![Screenshot of the PhotoMooch app users dashboard](/assets/PM_Users.png)
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+### Additional Information
 
-#### Level-four heading
-
-- We noted this
-- And also this other point
+An add on service has since been added utilising the OpenAI API to generate promnpts trained using current promnpts in the database. This allows the app to generate new prompts for users to use, and is currently being tested by the PhotoMooch collective.
