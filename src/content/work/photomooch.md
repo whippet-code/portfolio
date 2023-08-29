@@ -13,7 +13,7 @@ tags:
   - Full Stack
 ---
 
-The app can be found live at [https://photomooch.onrender.com](PhotoMooch App)
+##### The app can be found live at [PhotoMooch App](https://photomooch.onrender.com)
 
 ### App Description
 

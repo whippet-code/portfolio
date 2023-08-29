@@ -1,6 +1,6 @@
 ---
 title: Shared Shopping List App
-publishDate: 2023-03-08 00:00:00
+publishDate: 2023-01-08 00:00:00
 img: /assets/stock-2.png
 img_alt: Screen shot of the Shared Shopping List app
 description: |
@@ -15,5 +15,5 @@ tags:
 ## Build Notes
 
 Built using vanilla javascript, html and css. The app is hosted on firebase and uses a firebase database to store the data. The app is designed to be a simple, easy to use tool. With a firebase backend, the app is designed is then used via the browser but using a service worker, the app can be installed on a mobile device and used offline.
-Currently used by myself and partner to keep track of our shopping list.
+Currently used by myself and partner to keep track of our shopping list. "Ladies choice is an in-house joke which usually means buy cake."
 Hosted at [https://our-list.onrender.com//](https://our-list.onrender.com/)
